@@ -12,11 +12,6 @@ The website allows users to browse best-selling books, explore new arrivals, and
 * **Navigation Menu** – Easy access to Home, Categories, Testimonials, and Contact Us pages.
 * **Clean & Responsive Design** – Works seamlessly on desktops and mobile devices.
 
-## 🖼 Preview
-
-![Book World Screenshot](screenshot.png)
-*Screenshot of the Book World home page showing best-sellers and new arrivals.*
-
 ## 🛠 Tech Stack
 
 * **HTML5** – Structure and content
